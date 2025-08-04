@@ -23,13 +23,13 @@ SOWRYZEL E-Commerce adalah aplikasi penjualan berbasis website. Project ini meng
    ![Login](img/login.png)
 
 4. **Produk**
-   ![Produk](img/produk.png)
+   ![Produk](img/product.png)
 
 5. **Transaksi**
-   ![Transaksi](img/transaksi.png)
+   ![Transaksi](img/transaction.png)
 
 6. **Admin Dashboard**
-   ![Admin Dashboard](img/admin_dashboard.png)
+   ![Admin Dashboard](img/admin-dashboard.png)
 
 ## Instalasi
 
